@@ -1,0 +1,10 @@
+{
+    "python": {
+      "sys.path.append": [
+        "./curated",
+        "./ingestion",
+        "./test.py",
+        "./test_inner.py"
+      ]
+    }
+  }

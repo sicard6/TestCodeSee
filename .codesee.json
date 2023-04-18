@@ -1,8 +1,8 @@
 {
     "python": {
       "sys.path.append": [
-        "./curated",
-        "./ingestion",
+        "./curated/test_inner_curated.py",
+        "./ingestion/test_inner.py",
         "./test.py",
         "./test_inner.py"
       ]
